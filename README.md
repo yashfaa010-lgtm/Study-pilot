@@ -1,11 +1,14 @@
 # 🎓 StudyPilot
  
 A personal academic dashboard that turns your subjects, course outlines, and exam dates into a day-by-day study plan — built as a single, self-contained web app with no backend required.
- 
-**Live demo / preview:** celebrated-griffin-594de7.netlify.app
- 
+
 ---
- 
+
+<img width="1573" height="880" alt="image" src="https://github.com/user-attachments/assets/3984acc9-6b61-41d1-ac44-7e5f080b6800" />
+---
+<img width="1721" height="680" alt="image" src="https://github.com/user-attachments/assets/dd9daac5-c467-41b1-bde1-17a26006e25a" />
+
+
 ## What it does
  
 StudyPilot takes a few things you already know about your semester — your subjects, your target grades, your syllabus, your exam dates — and turns them into something actionable every day:
